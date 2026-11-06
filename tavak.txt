@@ -1,0 +1,13 @@
+Bieli-tó	39,6
+Boden-tó	541,1
+Brienzersee	29,8
+Genfi-tó	581,3
+Lago Maggiore	212,3
+Luganói-tó	48,7
+Murteni-tó	23
+Neuchâteli-tó	218,3
+Thuni-tó	48,4
+Vierwaldstätti-tó	113,7
+Waleni-tó	24,1
+Zugi-tó	38,3
+Zürichi-tó	90,1
